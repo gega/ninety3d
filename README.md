@@ -24,7 +24,7 @@ N3D_OBJECT_BLUE   | 150     | int   |
 N3D_LIGHT_X       | 10.5    | float | lightsource location
 N3D_LIGHT_Y       | 11.0    | float |
 N3D_LIGHT_Z       | 11.0    | float |
-N3D_AMBIENT_LIGHT | 32      | float | ambient light
+N3D_AMBIENT_LIGHT | 32      | int   | ambient light
 N3D_SW            | 240     | int   | window width
 N3D_SH            | 240     | int   | window height
 N3D_LINE_R        | 255     | int   | edge line color
